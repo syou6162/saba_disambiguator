@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-lambda-go v1.23.0
 	github.com/aws/aws-sdk-go v1.38.40
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
-	github.com/dghubble/go-twitter v0.0.0-20201011215211-4b180d0cc78d
+	github.com/dghubble/go-twitter 2fdbf421508e
 	github.com/elazarl/goproxy v0.0.0-20200809112317-0581fc3aee2d // indirect
 	github.com/parnurzeal/gorequest v0.2.16 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
